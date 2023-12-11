@@ -29,9 +29,7 @@ Dates (Set, Get, Format)*/
 
 
 const varNumber: number = 4;
-const bool: boolean = true; 
-
-let x:   
+const bool: boolean = true;   
 
 const msg: string = "Hello world, i'm trying Typescript";
 

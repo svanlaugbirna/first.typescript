@@ -1,3 +1,4 @@
+"use strict";
 /*Fundamentals
 Comments
 Output (console.log, alert, innerHTML)
@@ -26,8 +27,8 @@ Shorthand Property name syntax const x = { myProp }
 Null / Undefined / NaN
 Math (random, round, floor)
 Dates (Set, Get, Format)*/
-var varNumber = 4;
-var bool = true;
-var x, msg = "Hello world, i'm trying Typescript";
+const varNumber = 4;
+const bool = true;
+const msg = "Hello world, i'm trying Typescript";
 console.log(varNumber);
 console.log(msg);
